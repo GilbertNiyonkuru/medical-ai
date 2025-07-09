@@ -1,4 +1,4 @@
+pandas 
+openai==0.28
 streamlit
-pandas
-scikit-learn
-openai         # if using GPT for recommendations
+python-dotenv
